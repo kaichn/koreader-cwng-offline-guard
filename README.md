@@ -1,4 +1,4 @@
-# ⚡ CWNG Offline Guard
+# CWNG Offline Guard
 
 **A [KOReader](https://github.com/koreader/koreader) user patch for the Calibre-Web NextGen sync plugin that stops it freezing the UI when the server is offline.**
 
